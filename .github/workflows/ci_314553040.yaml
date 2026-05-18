@@ -3,7 +3,7 @@ name: CI Homework
 on:
   push:
     branches:
-      - "**"
+      - '**'
 
 jobs:
   typecheck-format-test:
